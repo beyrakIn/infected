@@ -9,7 +9,7 @@
 - [ReversingLabs](https://www.reversinglabs.com/products/file-reputation-service) - TitaniumCloud - Provides file reputation & intelligence
 - [Hatching](https://hatching.io/) - Tria.ge - Provides Sandbox reports and malware config extraction
 - [CERT.PL](https://cert.pl/) - Malware Database (MWDB) - Provides malware classification
-- [Joe Security](https://www.joesecurity.org/joe-sandbox-desktop) - https://www.joesecurity.org/joe-sandbox-desktop
+- [Joe Security](https://www.joesecurity.org/joe-sandbox-desktop) - Joe Sandbox - Provides Sandbox report
 - [Dr.Web](https://www.drweb.com/vxcube/) - vxCube - Provides Sandbox reports
 - [YOROI](https://yomi.yoroi.company/) - YOMI - Provides Sandbox reports
 - [UnpacMe](https://www.unpac.me/) - UnpacMe - Provides automated malware unpacking service
