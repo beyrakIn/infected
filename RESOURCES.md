@@ -1,7 +1,6 @@
 # Resources 
 
 
-- [MalwareNazaar](https://bazaar.abuse.ch/)
 - [FileScan](https://www.filescan.io/scan) - FileScan.IO - Provides malware analysis service 
 - [The Spamhaus Project](https://www.spamhaus.org/) - Provides spam trap data
 - [Threatray](https://threatray.com/) - Provides code-based threat intelligence
