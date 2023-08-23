@@ -1,6 +1,7 @@
 # Resources 
 
 
+- [MalShare](https://malshare.com/) - The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large.
 - [FileScan](https://www.filescan.io/scan) - FileScan.IO - Provides malware analysis service 
 - [The Spamhaus Project](https://www.spamhaus.org/) - Provides spam trap data
 - [Threatray](https://threatray.com/) - Provides code-based threat intelligence
@@ -24,7 +25,7 @@
 - [Nucleon Malprob](https://malprob.io/) - Malprob - Malprob is an analysis service to identify malicious files
 - [Sanesecurity](https://sanesecurity.com/) - Sanesecurity: improve ClamAV signatures
 - [Docguard](https://www.docguard.io/) - Docguard: Detect malicious documents in seconds
-
+- [CAPE Sandbox](https://capesandbox.com/) - Sandbox
 
 
 
