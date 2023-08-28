@@ -14,6 +14,7 @@
 
 # Misc
 
+- [Threat Encyclopedia](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/) - Latest information on malware and vulnerabilities from Trend Micro.
 - [Risk Mitigation](https://riskmitigation.ch/) - A systematic reduction in the extent of exposure to a risk and/or the likelihood of its occurrence. Also called risk reduction.
 
 
