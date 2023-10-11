@@ -1,6 +1,7 @@
 # Malware Repo
 
 
+- [EyeHateMalware](https://eyehatemalwares.com/) - Community 
 - [ABUSE](https://abuse.ch/) - abuse.ch is providing community driven threat intelligence on cyber threats.
 - [MalwareBazaar](https://bazaar.abuse.ch/) - Sharing malware samples with the community, AV vendors and threat intelligence providers
 - [Feodo Tracker](https://feodotracker.abuse.ch/) - Tracking botnet C&C infrastructure associated with Emotet, Dridex and TrickBot
